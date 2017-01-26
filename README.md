@@ -1,0 +1,2 @@
+# shortfuls
+Helpful shortcuts. 
